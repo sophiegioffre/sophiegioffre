@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophiegioffre
-- 👀 I’m interested in knitting hats, cooking vegetarian meals, and all kinds of puzzles.
-- 🌱 I’m currently learning Full Stack Development with MERN!
+- 👀 I’m interested in developing dynamic webpages, writing clean code, and solving puzzles of all kinds!
+- 🌱 I’m currently learning Full Stack Development with MERN.
 - 💞️ I’m looking to collaborate on creative open source projects.
 
 <!---
